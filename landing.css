@@ -1,0 +1,59 @@
+/* Fonts and Colors */
+body {
+  background: #bfeabf;
+  color: rgb (20, 20, 20);
+  font-family: fantasy;
+  margin: 0;
+}
+
+ h1{
+font-family: fantasy;
+font-size: 50px;
+color: pink;
+  }
+
+h2{
+  font-size: : 2px;
+  border: 1px pink;
+  border: 2px dashed #FF30D;
+}
+a{
+  text-decoration-color: none
+  color: teal;
+}
+
+
+/* custom design */
+#banner {
+  background-image: url("https://unsplash.it/750/900/?gravity=west");
+  background-size: cover;
+  padding: 160px 0;
+  text-align: center;
+}
+
+#banner h1{
+  color: pink;
+}
+#banner p{
+  color: yellow;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.7;
+}
+
+.card {
+  padding: 50px;
+  text-align: center;
+}
+#footer{
+  background-color:white;
+  color: black;
+  font-weight: lighter;
+  font-style: Arial;
+  font-size: :30px;
+  padding: 30px;
+}
+.theEnd{
+  color: white;
+  background-color:pink;
+}
