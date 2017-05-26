@@ -3,7 +3,10 @@ font-family: fantasy;
 font-size: 50px;
 color: blue;
 }
+body {
+  background-color: teal;
+}
 
 h1 #h1{font-size: 50px;
-color: teal;
+color: blue;
  }
