@@ -1,5 +1,9 @@
-h1{
+title{
 font-family: fantasy;
-font-size: 60px;
+font-size: 50px;
 color: blue;
+}
+
+h1 {font-size: 50px;
+color: Black;
  }
